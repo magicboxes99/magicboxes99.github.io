@@ -1,0 +1,24 @@
+body { 
+  padding-top: 40px; 
+}
+
+#navbar-menu li {
+  border-bottom: 1px solid black;
+}
+
+#navbar-menu ul {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.section {
+  background-color: grey;
+  height: 1000px;
+}
+
+.section header {
+  text-align: center;
+  font-size: 1.5em;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
